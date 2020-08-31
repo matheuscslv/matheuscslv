@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
+###  Welcome to my profile 💻
 
-<!--
-**Matheuscsceil/matheuscsceil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Matheus Costa and I'm a Full Stack developer.
 
-Here are some ideas to get you started:
+#### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀  Frontend developer at MSB Tecnologia, working with Nodejs, Reactjs, React Native and typescript.
+- 🎓  Graduating from Computer Science course.
+- 📚  In constant study and learning.
+- ⚡️  CI/CD | Amazon AWS
+
+If you want to know more about what I have done and more information about me, feel free be in touch in the links below ;)
+
+[![Github Badge](https://img.shields.io/badge/-Matheuscsceil-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/matheuscsceil)](https://github.com/matheuscsceil)
+[![Linkedin Badge](https://img.shields.io/badge/-Matheuscsceil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuscostasilva/)](https://www.linkedin.com/in/matheuscostasilva/)
